@@ -1,0 +1,26 @@
+{
+  "name": "bower-reveal-js-3",
+  "version": "0.0.1",
+  "authors": [
+    "Hakim El Hattab <hakim.elhattab@gmail.com> (http://hakim.se)",
+    "Abhinandan Kothari <abhinandankothari@gmail.com>"
+  ],
+  "description": "A bower package to reveal.js",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "license": "MIT",
+  "homepage": "http://lab.hakim.se/reveal-js/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abhinandankothari/bower-reveal-js-3.git"
+  }
+}
