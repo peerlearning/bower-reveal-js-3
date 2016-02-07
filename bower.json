@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "authors": [
     "Hakim El Hattab <hakim.elhattab@gmail.com> (http://hakim.se)",
-    "Abhinandan Kothari <abhinandankothari@gmail.com>"
+    "Amit Mutreja <amit@avanti.in>"
   ],
   "description": "A bower package to reveal.js",
   "main": [
@@ -21,6 +21,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/abhinandankothari/bower-reveal-js-3.git"
+    "url": "https://github.com/peerlearning/bower-reveal-js-3.git"
   }
 }
